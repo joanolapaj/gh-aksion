@@ -1,4 +1,4 @@
-name: Output inofrmation
+name: exercise 1
 on: workflow_dispatch
 jobs:
     Lint:
